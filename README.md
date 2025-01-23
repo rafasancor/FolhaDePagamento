@@ -29,7 +29,7 @@ Este é o meu projeto mais completo, e tem como objetivo consolidar meus conheci
 
 1. Compile o código com um compilador compatível com C (exemplo: GCC)  
 2. Execute o programa no terminal  
-3️. Informe os valores solicitados para realizar os cálculos  
-4️. Utilize o menu para navegar entre as opções  
+3. Informe os valores solicitados para realizar os cálculos  
+4. Utilize o menu para navegar entre as opções  
 
 
